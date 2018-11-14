@@ -1,1 +1,35 @@
-theme: jekyll-theme-cayman
+theme:
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<meta charset="UTF-8">
+	<title>索索</title>
+		<style >
+		.yasuo{
+			width: 1344px;height: 756px;
+						
+				}
+		.1{
+			color: red;
+			width:300px;
+			height: 200px;
+		}
+		</style>
+
+
+		
+</head>
+<body>
+	<div class ="yasuo" style=" background:url('u=661538067,2473790318&fm=214&gp=0.jpg'); text-align: center;">向死而生<br>
+	吾之荣耀，离别已久
+	
+	</div>
+	<div class="xiazi" style="background:url(u=3344564467,79758012&fm=26&gp=0.jpg); width: 2123px;height: 1200px ;">
+		
+	</div>
+	<div class="1" >
+		
+	</div>
+	<div class="1"></div>
+</body>
+</html>
